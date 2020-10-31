@@ -1,0 +1,10 @@
+2020-10-31 09:02:01,893-__main__-INFO-sss
+2020-10-31 09:02:29,531-common.logger-INFO-元素<selenium.webdriver.remote.webelement.WebElement (session="493d828a2f74bee1602945f1f6c116c2", element="a3b10d12-344c-4ad7-96dd-311ad508d817")>定位成功
+2020-10-31 09:02:29,602-common.logger-INFO-用户输入框输入成功
+2020-10-31 09:02:29,602-common.logger-INFO-正确输入用户名test02
+2020-10-31 09:02:29,621-common.logger-INFO-元素<selenium.webdriver.remote.webelement.WebElement (session="493d828a2f74bee1602945f1f6c116c2", element="8486b853-e14d-4efb-b3b0-c50493c48766")>定位成功
+2020-10-31 09:02:29,715-common.logger-INFO-密码输入框输入成功
+2020-10-31 09:02:29,715-common.logger-INFO-正确输入密码newdream123
+2020-10-31 09:02:29,734-common.logger-INFO-元素<selenium.webdriver.remote.webelement.WebElement (session="493d828a2f74bee1602945f1f6c116c2", element="00bff84e-4dc2-4265-9adc-a9a3b2d97b28")>定位成功
+2020-10-31 09:02:29,804-common.logger-INFO-成功点击登录按钮这个元素
+2020-10-31 09:02:29,804-common.logger-INFO-正确登录
